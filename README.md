@@ -13,7 +13,7 @@
 
 ## 目录说明
 
-- `index.html`：主页面入口，负责自动跳转到目标地址（https://kawangya.github.io/kw-nav/）
+- `index.html`：主页面入口，负责自动跳转到目标地址（<https://kawangya.github.io/kw-nav/>）
 - `fullbackup/`：个人内容分享区，存放各类资源文件
 - `README.md`：项目说明文档
 - `LICENSE`：开源协议文件
